@@ -7,12 +7,12 @@
 "neut","neutral","event number",,"verb",1
 "mult","multiple","event number",,"verb",2
 "dist","distributive","event number","Only with singular person number","verb",3
-"real-mi","realis-mi","mood",,"verb",1
-"real-t","realis-t","mood",,"verb",2
-"real-yo","realis-yo","mood",,"verb",3
-"real-emph","emphatic realis","mood",,"verb",4
-"irr-dep","dependent irrealis","mood",,"verb",5
-"irr-indep","independent irrealis","mood",,"verb",6
+"real-mi","realis-mi","mood",Described as 'proximate tense' in Moser & Marlett (2010); it is not evidential, and often indicates that the event has already occurred or is presently occurring. It cannot be negated, presumably because of the phonological coincidence of the mood prefix and the negative prefix,"verb",1
+"real-t","realis-t","mood",Realis mood, used in independent clauses.,"verb",2
+"real-yo","realis-yo","mood",Described as 'proximate tense' in Moser & Marlett (2010), it is not strictly speaking a past tense, but is probably an evidential (speaker can vouch for it).,"verb",3
+"real-emph","emphatic realis","mood",Indicates greater amount of emotion and personal involvement on the part of the speaker.,"verb",4
+"irr-dep","dependent irrealis","mood",Irrealis mood used in dependent clauses (not main clauses).,"verb",5
+"irr-indep","independent irrealis","mood",Irrealis mood used in independent (main) clauses.,"verb",6
 "imp","imperative","mood","Implicitly 2nd person subject","verb",7
 "pass","passive","voice","contrasts implicitly with active only for transitive verbs","verb",2
 "pos","positive","polarity",,"verb",1
